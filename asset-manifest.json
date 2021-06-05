@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/benga-buses/static/css/main.d285d0c0.chunk.css",
-    "main.js": "/benga-buses/static/js/main.024db4fb.chunk.js",
-    "main.js.map": "/benga-buses/static/js/main.024db4fb.chunk.js.map",
+    "main.js": "/benga-buses/static/js/main.b44e5f90.chunk.js",
+    "main.js.map": "/benga-buses/static/js/main.b44e5f90.chunk.js.map",
     "runtime-main.js": "/benga-buses/static/js/runtime-main.ba3ef1de.js",
     "runtime-main.js.map": "/benga-buses/static/js/runtime-main.ba3ef1de.js.map",
-    "static/js/2.141c1cdd.chunk.js": "/benga-buses/static/js/2.141c1cdd.chunk.js",
-    "static/js/2.141c1cdd.chunk.js.map": "/benga-buses/static/js/2.141c1cdd.chunk.js.map",
+    "static/js/2.670b7abd.chunk.js": "/benga-buses/static/js/2.670b7abd.chunk.js",
+    "static/js/2.670b7abd.chunk.js.map": "/benga-buses/static/js/2.670b7abd.chunk.js.map",
     "static/js/3.ef2de3f8.chunk.js": "/benga-buses/static/js/3.ef2de3f8.chunk.js",
     "static/js/3.ef2de3f8.chunk.js.map": "/benga-buses/static/js/3.ef2de3f8.chunk.js.map",
     "index.html": "/benga-buses/index.html",
     "static/css/main.d285d0c0.chunk.css.map": "/benga-buses/static/css/main.d285d0c0.chunk.css.map",
-    "static/js/2.141c1cdd.chunk.js.LICENSE.txt": "/benga-buses/static/js/2.141c1cdd.chunk.js.LICENSE.txt"
+    "static/js/2.670b7abd.chunk.js.LICENSE.txt": "/benga-buses/static/js/2.670b7abd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ba3ef1de.js",
-    "static/js/2.141c1cdd.chunk.js",
+    "static/js/2.670b7abd.chunk.js",
     "static/css/main.d285d0c0.chunk.css",
-    "static/js/main.024db4fb.chunk.js"
+    "static/js/main.b44e5f90.chunk.js"
   ]
 }
