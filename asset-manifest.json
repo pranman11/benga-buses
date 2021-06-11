@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/benga-buses/static/css/main.1bb31a43.chunk.css",
-    "main.js": "/benga-buses/static/js/main.f99dddb2.chunk.js",
-    "main.js.map": "/benga-buses/static/js/main.f99dddb2.chunk.js.map",
+    "main.css": "/benga-buses/static/css/main.bfc258f7.chunk.css",
+    "main.js": "/benga-buses/static/js/main.ee839106.chunk.js",
+    "main.js.map": "/benga-buses/static/js/main.ee839106.chunk.js.map",
     "runtime-main.js": "/benga-buses/static/js/runtime-main.1dbaa93d.js",
     "runtime-main.js.map": "/benga-buses/static/js/runtime-main.1dbaa93d.js.map",
     "static/js/2.cb879071.chunk.js": "/benga-buses/static/js/2.cb879071.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.39076674.chunk.js": "/benga-buses/static/js/3.39076674.chunk.js",
     "static/js/3.39076674.chunk.js.map": "/benga-buses/static/js/3.39076674.chunk.js.map",
     "index.html": "/benga-buses/index.html",
-    "static/css/main.1bb31a43.chunk.css.map": "/benga-buses/static/css/main.1bb31a43.chunk.css.map",
+    "static/css/main.bfc258f7.chunk.css.map": "/benga-buses/static/css/main.bfc258f7.chunk.css.map",
     "static/js/2.cb879071.chunk.js.LICENSE.txt": "/benga-buses/static/js/2.cb879071.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1dbaa93d.js",
     "static/js/2.cb879071.chunk.js",
-    "static/css/main.1bb31a43.chunk.css",
-    "static/js/main.f99dddb2.chunk.js"
+    "static/css/main.bfc258f7.chunk.css",
+    "static/js/main.ee839106.chunk.js"
   ]
 }
