@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/benga-buses/static/css/main.2ca13672.chunk.css",
-    "main.js": "/benga-buses/static/js/main.224419bf.chunk.js",
-    "main.js.map": "/benga-buses/static/js/main.224419bf.chunk.js.map",
+    "main.js": "/benga-buses/static/js/main.253a82db.chunk.js",
+    "main.js.map": "/benga-buses/static/js/main.253a82db.chunk.js.map",
     "runtime-main.js": "/benga-buses/static/js/runtime-main.1dbaa93d.js",
     "runtime-main.js.map": "/benga-buses/static/js/runtime-main.1dbaa93d.js.map",
     "static/js/2.b8831458.chunk.js": "/benga-buses/static/js/2.b8831458.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1dbaa93d.js",
     "static/js/2.b8831458.chunk.js",
     "static/css/main.2ca13672.chunk.css",
-    "static/js/main.224419bf.chunk.js"
+    "static/js/main.253a82db.chunk.js"
   ]
 }
